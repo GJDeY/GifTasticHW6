@@ -1,0 +1,10 @@
+.h1 {
+    background-color: darkcyan
+}
+.body {
+    color: aqua;
+    background-color: blue;
+}
+#buttons {
+    display: inline;
+}
